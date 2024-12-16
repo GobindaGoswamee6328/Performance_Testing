@@ -1,0 +1,318 @@
+line 2 column 1 - Warning: unknown attribute "prefix"
+line 4 column 1 - Warning: meta lacks "content" attribute
+line 8 column 1 - Warning: <style> lacks "type" attribute
+line 14 column 1 - Warning: unknown attribute "property"
+line 15 column 1 - Warning: unknown attribute "property"
+line 16 column 1 - Warning: unknown attribute "property"
+line 17 column 1 - Warning: unknown attribute "property"
+line 18 column 1 - Warning: unknown attribute "property"
+line 19 column 1 - Warning: unknown attribute "property"
+line 20 column 1 - Warning: unknown attribute "property"
+line 21 column 1 - Warning: unknown attribute "property"
+line 22 column 1 - Warning: unknown attribute "property"
+line 23 column 1 - Warning: unknown attribute "property"
+line 32 column 1 - Warning: <style> lacks "type" attribute
+line 32 column 470 - Warning: unknown attribute "crossorigin"
+line 32 column 470 - Warning: unknown attribute "as"
+line 33 column 1 - Warning: unknown attribute "crossorigin"
+line 33 column 81 - Warning: <style> lacks "type" attribute
+line 34 column 1 - Warning: <style> lacks "type" attribute
+line 48 column 1 - Warning: link lacks "type" attribute
+line 49 column 1 - Warning: <style> lacks "type" attribute
+line 50 column 1 - Warning: link lacks "type" attribute
+line 51 column 1 - Warning: <style> lacks "type" attribute
+line 52 column 1 - Warning: <style> lacks "type" attribute
+line 53 column 1 - Warning: <style> lacks "type" attribute
+line 54 column 1 - Warning: <style> lacks "type" attribute
+line 72 column 1 - Warning: link lacks "type" attribute
+line 78 column 1 - Warning: unknown attribute "sizes"
+line 79 column 1 - Warning: unknown attribute "sizes"
+line 82 column 1 - Warning: <style> lacks "type" attribute
+line 84 column 1 - Error: <header> is not recognized!
+line 84 column 1 - Warning: discarding unexpected <header>
+line 84 column 34 - Warning: unknown attribute "pagelayer-id"
+line 84 column 97 - Warning: trimming empty <div>
+line 84 column 107 - Warning: unknown attribute "pagelayer-id"
+line 85 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 85 column 1 - Warning: <style> lacks "type" attribute
+line 85 column 1 - Warning: <style> isn't allowed in <div> elements
+line 87 column 1 - Warning: unknown attribute "pagelayer-id"
+line 88 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 88 column 1 - Warning: <style> lacks "type" attribute
+line 88 column 1 - Warning: <style> isn't allowed in <div> elements
+line 89 column 31 - Warning: trimming empty <div>
+line 89 column 37 - Warning: trimming empty <div>
+line 89 column 47 - Warning: unknown attribute "pagelayer-id"
+line 90 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 90 column 1 - Warning: <style> lacks "type" attribute
+line 90 column 1 - Warning: <style> isn't allowed in <div> elements
+line 91 column 31 - Warning: trimming empty <div>
+line 91 column 37 - Warning: trimming empty <div>
+line 91 column 47 - Warning: unknown attribute "pagelayer-id"
+line 92 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 92 column 1 - Warning: <style> lacks "type" attribute
+line 92 column 1 - Warning: <style> isn't allowed in <div> elements
+line 94 column 1 - Warning: unknown attribute "pagelayer-id"
+line 95 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 95 column 1 - Warning: <style> lacks "type" attribute
+line 95 column 1 - Warning: <style> isn't allowed in <div> elements
+line 97 column 1 - Warning: unknown attribute "pagelayer-id"
+line 98 column 1 - Warning: unknown attribute "data-icon"
+line 98 column 206 - Warning: trimming empty <i>
+line 98 column 230 - Warning: unknown attribute "pagelayer-id"
+line 99 column 1 - Warning: unknown attribute "data-icon"
+line 99 column 192 - Warning: trimming empty <i>
+line 99 column 216 - Warning: unknown attribute "pagelayer-id"
+line 100 column 1 - Warning: unknown attribute "data-icon"
+line 100 column 209 - Warning: trimming empty <i>
+line 100 column 263 - Warning: unknown attribute "pagelayer-id"
+line 101 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 101 column 1 - Warning: <style> lacks "type" attribute
+line 101 column 1 - Warning: <style> isn't allowed in <div> elements
+line 104 column 1 - Warning: unknown attribute "pagelayer-id"
+line 105 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 105 column 1 - Warning: <style> lacks "type" attribute
+line 105 column 1 - Warning: <style> isn't allowed in <div> elements
+line 107 column 1 - Warning: unknown attribute "pagelayer-id"
+line 108 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 108 column 1 - Warning: <style> lacks "type" attribute
+line 108 column 1 - Warning: <style> isn't allowed in <div> elements
+line 108 column 400 - Warning: unknown attribute "pagelayer-image-link-type"
+line 108 column 497 - Warning: unknown attribute "srcset"
+line 108 column 497 - Warning: unknown attribute "decoding"
+line 108 column 820 - Warning: unknown attribute "pagelayer-id"
+line 109 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 109 column 1 - Warning: <style> lacks "type" attribute
+line 109 column 1 - Warning: <style> isn't allowed in <div> elements
+line 112 column 1 - Warning: unknown attribute "pagelayer-id"
+line 113 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 113 column 1 - Warning: <style> lacks "type" attribute
+line 113 column 1 - Warning: <style> isn't allowed in <div> elements
+line 118 column 67 - Warning: unknown attribute "data-drop_breakpoint"
+line 118 column 67 - Warning: unknown attribute "data-submenu_ind"
+line 118 column 67 - Warning: unknown attribute "data-layout"
+line 119 column 60 - Warning: trimming empty <i>
+line 119 column 64 - Warning: trimming empty <div>
+line 119 column 74 - Warning: unknown attribute "data-align"
+line 120 column 58 - Warning: trimming empty <i>
+line 120 column 62 - Warning: trimming empty <div>
+line 120 column 107 - Warning: <ul> attribute "id" has invalid value "2"
+line 120 column 421 - Warning: trimming empty <div>
+line 121 column 252 - Warning: trimming empty <div>
+line 122 column 262 - Warning: trimming empty <div>
+line 123 column 262 - Warning: trimming empty <div>
+line 124 column 273 - Warning: trimming empty <div>
+line 125 column 271 - Warning: trimming empty <div>
+line 126 column 262 - Warning: trimming empty <div>
+line 127 column 267 - Warning: trimming empty <div>
+line 128 column 278 - Warning: trimming empty <div>
+line 131 column 281 - Warning: trimming empty <div>
+line 132 column 250 - Warning: trimming empty <div>
+line 133 column 250 - Warning: trimming empty <div>
+line 134 column 244 - Warning: trimming empty <div>
+line 135 column 248 - Warning: trimming empty <div>
+line 136 column 262 - Warning: trimming empty <div>
+line 137 column 252 - Warning: trimming empty <div>
+line 138 column 246 - Warning: trimming empty <div>
+line 139 column 248 - Warning: trimming empty <div>
+line 140 column 248 - Warning: trimming empty <div>
+line 141 column 281 - Warning: trimming empty <div>
+line 142 column 279 - Warning: trimming empty <div>
+line 143 column 250 - Warning: trimming empty <div>
+line 146 column 261 - Warning: trimming empty <div>
+line 147 column 266 - Warning: trimming empty <div>
+line 148 column 249 - Warning: trimming empty <div>
+line 149 column 250 - Warning: trimming empty <div>
+line 150 column 248 - Warning: trimming empty <div>
+line 155 column 287 - Warning: trimming empty <div>
+line 156 column 250 - Warning: trimming empty <div>
+line 157 column 229 - Warning: trimming empty <div>
+line 158 column 270 - Warning: trimming empty <div>
+line 159 column 276 - Warning: trimming empty <div>
+line 160 column 248 - Warning: trimming empty <div>
+line 163 column 230 - Warning: trimming empty <div>
+line 164 column 255 - Warning: trimming empty <div>
+line 165 column 50 - Warning: discarding unexpected </header>
+line 166 column 1 - Error: <main> is not recognized!
+line 166 column 1 - Warning: discarding unexpected <main>
+line 167 column 1 - Error: <article> is not recognized!
+line 167 column 1 - Warning: discarding unexpected <article>
+line 168 column 1 - Error: <header> is not recognized!
+line 168 column 1 - Warning: discarding unexpected <header>
+line 169 column -3 - Warning: discarding unexpected </header>
+line 171 column 1 - Warning: unknown attribute "pagelayer-id"
+line 171 column 64 - Warning: trimming empty <div>
+line 171 column 74 - Warning: unknown attribute "pagelayer-id"
+line 172 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 172 column 1 - Warning: <style> lacks "type" attribute
+line 172 column 1 - Warning: <style> isn't allowed in <div> elements
+line 174 column 1 - Warning: unknown attribute "pagelayer-id"
+line 175 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 175 column 1 - Warning: <style> lacks "type" attribute
+line 175 column 1 - Warning: <style> isn't allowed in <div> elements
+line 177 column 1 - Warning: unknown attribute "pagelayer-id"
+line 178 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 178 column 1 - Warning: <style> lacks "type" attribute
+line 178 column 1 - Warning: <style> isn't allowed in <div> elements
+line 178 column 259 - Warning: unknown attribute "pagelayer-id"
+line 179 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 179 column 1 - Warning: <style> lacks "type" attribute
+line 179 column 1 - Warning: <style> isn't allowed in <div> elements
+line 179 column 129 - Warning: trimming empty <div>
+line 179 column 135 - Warning: trimming empty <div>
+line 179 column 145 - Warning: unknown attribute "pagelayer-id"
+line 180 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 180 column 1 - Warning: <style> lacks "type" attribute
+line 180 column 1 - Warning: <style> isn't allowed in <div> elements
+line 180 column 404 - Warning: unknown attribute "srcset"
+line 180 column 404 - Warning: unknown attribute "decoding"
+line 180 column 732 - Warning: unknown attribute "pagelayer-id"
+line 181 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 181 column 1 - Warning: <style> lacks "type" attribute
+line 181 column 1 - Warning: <style> isn't allowed in <div> elements
+line 183 column 1 - Warning: unknown attribute "pagelayer-id"
+line 184 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 184 column 1 - Warning: <style> lacks "type" attribute
+line 184 column 1 - Warning: <style> isn't allowed in <div> elements
+line 186 column 1 - Warning: unknown attribute "pagelayer-id"
+line 187 column 214 - Warning: unknown attribute "pagelayer-id"
+line 188 column 172 - Warning: unknown attribute "pagelayer-id"
+line 189 column 125 - Warning: unknown attribute "pagelayer-id"
+line 190 column 186 - Warning: unknown attribute "pagelayer-id"
+line 191 column 338 - Warning: unknown attribute "pagelayer-id"
+line 192 column 461 - Warning: unknown attribute "pagelayer-id"
+line 193 column 139 - Warning: unknown attribute "pagelayer-id"
+line 194 column 417 - Warning: unknown attribute "pagelayer-id"
+line 195 column 350 - Warning: unknown attribute "pagelayer-id"
+line 196 column 476 - Warning: unknown attribute "pagelayer-id"
+line 197 column 1,008 - Warning: unknown attribute "pagelayer-id"
+line 198 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 198 column 1 - Warning: <style> lacks "type" attribute
+line 198 column 1 - Warning: <style> isn't allowed in <div> elements
+line 200 column 1 - Warning: unknown attribute "pagelayer-id"
+line 201 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 201 column 1 - Warning: <style> lacks "type" attribute
+line 201 column 1 - Warning: <style> isn't allowed in <div> elements
+line 203 column 1 - Warning: unknown attribute "pagelayer-id"
+line 204 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 204 column 1 - Warning: <style> lacks "type" attribute
+line 204 column 1 - Warning: <style> isn't allowed in <div> elements
+line 205 column 49 - Warning: trimming empty <i>
+line 207 column 49 - Warning: trimming empty <i>
+line 208 column 61 - Warning: discarding unexpected </article>
+line 209 column -3 - Warning: discarding unexpected </main>
+line 211 column 1 - Error: <footer> is not recognized!
+line 211 column 1 - Warning: discarding unexpected <footer>
+line 211 column 34 - Warning: unknown attribute "pagelayer-id"
+line 211 column 95 - Warning: trimming empty <div>
+line 211 column 105 - Warning: unknown attribute "pagelayer-id"
+line 212 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 212 column 1 - Warning: <style> lacks "type" attribute
+line 212 column 1 - Warning: <style> isn't allowed in <div> elements
+line 214 column 1 - Warning: unknown attribute "pagelayer-id"
+line 215 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 215 column 1 - Warning: <style> lacks "type" attribute
+line 215 column 1 - Warning: <style> isn't allowed in <div> elements
+line 217 column 1 - Warning: unknown attribute "pagelayer-id"
+line 218 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 218 column 1 - Warning: <style> lacks "type" attribute
+line 218 column 1 - Warning: <style> isn't allowed in <div> elements
+line 218 column 374 - Warning: unknown attribute "srcset"
+line 218 column 374 - Warning: unknown attribute "decoding"
+line 218 column 759 - Warning: unknown attribute "pagelayer-id"
+line 219 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 219 column 1 - Warning: <style> lacks "type" attribute
+line 219 column 1 - Warning: <style> isn't allowed in <div> elements
+line 221 column 1 - Warning: unknown attribute "pagelayer-id"
+line 222 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 222 column 1 - Warning: <style> lacks "type" attribute
+line 222 column 1 - Warning: <style> isn't allowed in <div> elements
+line 222 column 500 - Warning: unknown attribute "pagelayer-id"
+line 223 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 223 column 1 - Warning: <style> lacks "type" attribute
+line 223 column 1 - Warning: <style> isn't allowed in <div> elements
+line 225 column 28 - Warning: trimming empty <div>
+line 225 column 34 - Warning: trimming empty <div>
+line 225 column 82 - Warning: trimming empty <div>
+line 226 column 1 - Warning: unknown attribute "pagelayer-id"
+line 227 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 227 column 1 - Warning: <style> lacks "type" attribute
+line 227 column 1 - Warning: <style> isn't allowed in <div> elements
+line 229 column 1 - Warning: unknown attribute "pagelayer-id"
+line 230 column 45 - Warning: unknown attribute "data-feed-id"
+line 230 column 91 - Warning: trimming empty <div>
+line 230 column 97 - Warning: trimming empty <div>
+line 230 column 103 - Warning: trimming empty <div>
+line 230 column 109 - Warning: trimming empty <div>
+line 230 column 115 - Warning: trimming empty <div>
+line 230 column 125 - Warning: unknown attribute "pagelayer-id"
+line 231 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 231 column 1 - Warning: <style> lacks "type" attribute
+line 231 column 1 - Warning: <style> isn't allowed in <div> elements
+line 233 column 1 - Warning: unknown attribute "pagelayer-id"
+line 234 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 234 column 1 - Warning: <style> lacks "type" attribute
+line 234 column 1 - Warning: <style> isn't allowed in <div> elements
+line 234 column 374 - Warning: unknown attribute "srcset"
+line 234 column 374 - Warning: unknown attribute "decoding"
+line 234 column 682 - Warning: unknown attribute "pagelayer-id"
+line 235 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 235 column 1 - Warning: <style> lacks "type" attribute
+line 235 column 1 - Warning: <style> isn't allowed in <div> elements
+line 235 column 147 - Warning: unknown attribute "pagelayer-id"
+line 236 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 236 column 1 - Warning: <style> lacks "type" attribute
+line 236 column 1 - Warning: <style> isn't allowed in <div> elements
+line 237 column 1 - Warning: unknown attribute "pagelayer-id"
+line 238 column 1 - Warning: unknown attribute "data-icon"
+line 238 column 207 - Warning: trimming empty <i>
+line 238 column 231 - Warning: unknown attribute "pagelayer-id"
+line 239 column 1 - Warning: unknown attribute "data-icon"
+line 239 column 192 - Warning: trimming empty <i>
+line 239 column 216 - Warning: unknown attribute "pagelayer-id"
+line 240 column 1 - Warning: unknown attribute "data-icon"
+line 240 column 209 - Warning: trimming empty <i>
+line 240 column 251 - Warning: unknown attribute "pagelayer-id"
+line 241 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 241 column 1 - Warning: <style> lacks "type" attribute
+line 241 column 1 - Warning: <style> isn't allowed in <div> elements
+line 243 column 1 - Warning: unknown attribute "pagelayer-id"
+line 244 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 244 column 1 - Warning: <style> lacks "type" attribute
+line 244 column 1 - Warning: <style> isn't allowed in <div> elements
+line 245 column 1 - Warning: unknown attribute "pagelayer-id"
+line 245 column 1 - Warning: missing <li>
+line 245 column 68 - Warning: missing </div> before <li>
+line 245 column 68 - Warning: inserting implicit <ul>
+line 245 column 262 - Warning: trimming empty <i>
+line 245 column 334 - Warning: missing </ul> before </div>
+line 245 column 344 - Warning: unknown attribute "pagelayer-id"
+line 245 column 411 - Warning: missing </div> before <li>
+line 245 column 411 - Warning: inserting implicit <ul>
+line 245 column 614 - Warning: trimming empty <i>
+line 245 column 690 - Warning: missing </ul> before </div>
+line 245 column 700 - Warning: unknown attribute "pagelayer-id"
+line 245 column 767 - Warning: missing </div> before <li>
+line 245 column 767 - Warning: inserting implicit <ul>
+line 245 column 971 - Warning: trimming empty <i>
+line 245 column 1,046 - Warning: missing </ul> before </div>
+line 245 column 1,067 - Warning: unknown attribute "pagelayer-id"
+line 246 column 1 - Warning: unknown attribute "pagelayer-style-id"
+line 246 column 1 - Warning: <style> lacks "type" attribute
+line 246 column 1 - Warning: <style> isn't allowed in <div> elements
+line 246 column 129 - Warning: trimming empty <div>
+line 246 column 135 - Warning: trimming empty <div>
+line 246 column 145 - Warning: unknown attribute "pagelayer-id"
+line 247 column 191 - Warning: discarding unexpected </footer>
+line 248 column 1 - Warning: <script> lacks "type" attribute
+line 256 column 1 - Warning: <script> lacks "type" attribute
+line 257 column 1 - Warning: <script> lacks "type" attribute
+line 258 column 1 - Warning: <script> lacks "type" attribute
+line 259 column 1 - Warning: <script> lacks "type" attribute
+line 260 column 1 - Warning: <script> lacks "type" attribute
+line 261 column 1 - Warning: <script> lacks "type" attribute
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+308 warnings, 5 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
